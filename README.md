@@ -21,7 +21,7 @@ My *Techniques for Software Application Development* projects 🎓
 
 | Nº  | Name | Description | College Year | Topics | Subject | Finished | Activity |
 | :-: | :--: | :---------: | :----------: | :----: | :-----: | :------: | :------: |
-| 1 | [HCI-Practices](https://github.com/madebypixel02/HCI-Practices) | Various practices I'll work on in Human-Computer Interaction | 1 | report, HCI, interface, research | Human-Computer Interaction | :x: | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/hci-practices/main) |
+| 1 | [HCI Practices](https://github.com/madebypixel02/HCI-Practices) | Various practices I'll work on in Human-Computer Interaction | 1 | report, HCI, interface, research | Human-Computer Interaction | :x: | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/hci-practices/main) |
 
 <p align="center">
   <a href="https://uoc.edu">

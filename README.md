@@ -22,7 +22,7 @@ My *Techniques for Software Application Development* projects 🎓
 | Nº  | Name | Description | College Year | Topics | Subject | Finished | Activity |
 | :-: | :--: | :---------: | :----------: | :----: | :-----: | :------: | :------: |
 | 1 | [HCI Practices](https://github.com/madebypixel02/HCI-Practices) | Various practices I'll work on in Human-Computer Interaction | 1 | report, HCI, interface, research | Human-Computer Interaction | :construction: | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/hci-practices/main) |
-| 2 | [HTML CSS Tests](https://github.com/madebypixel02/HTML-CSS-Tests) | Tests for basic HTML and CSS code | 1 | HTML, CSS, Web | Web Standards & Languages | :construction: | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/HTML-CSS-Practices/main) |
+| 2 | [HTML CSS Tests](https://github.com/madebypixel02/HTML-CSS-Tests) | Tests for basic HTML and CSS code | 1 | HTML, CSS, Web | Web Standards & Languages | :construction: | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/HTML-CSS-Tests/main) |
 
 <p align="center">
   <a href="https://uoc.edu">

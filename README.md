@@ -1,4 +1,4 @@
-# UOC-Projects
+# UOC Projects
 My *Techniques for Software Application Development* projects 🎓
 
 ## Main Stats

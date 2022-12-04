@@ -3,10 +3,10 @@ My *Techniques for Software Application Development* projects 🎓
 
 ## Main Stats
 
-<p align="center">
+<div align="center">
   <img src="https://badgen.net/badge/UOC/aperez-b/cyan?cache=86400&icon=https://user-images.githubusercontent.com/40824677/194345849-41f057db-1d77-4081-ae63-46ca4efe6e8b.svg">
   <img src=https://img.shields.io/github/last-commit/madebypixel02/UOC-Projects/main />
-</p>
+</div>
 
 ## Project List
 
@@ -25,7 +25,7 @@ My *Techniques for Software Application Development* projects 🎓
 | 2 | [Web Standards and Languages Practices](https://github.com/madebypixel02/Web-Standards-and-Languages-Practices) | Web Standards and Languages HTML, CSS and JavaScript practices | 1 | HTML, CSS, JavaScript, Web | Web Standards & Languages | :construction: | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/Web-Standards-and-Languages-Practices/main) |
 | 3 | [Operating Systems Practices](https://github.com/madebypixel02/Operating-Systems-Practices) | Set of practical activities and practices for Operating Systems concepts | 1 | UNIX, POSIX, shell, OS, C, Makefile | Operating Systems | :construction: | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/Operating-Systems-Practices/main) |
 
-<p align="center">
+<div align="center">
   <a href="https://uoc.edu">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/40824677/194343635-6c73ed05-47a1-4921-8772-b73392515131.png">
@@ -33,4 +33,4 @@ My *Techniques for Software Application Development* projects 🎓
     <img alt="UOC logo in light and dark mode." src="https://user-images.githubusercontent.com/40824677/194343635-6c73ed05-47a1-4921-8772-b73392515131.png">
     </picture>
   </a>
-</p>
+</div>

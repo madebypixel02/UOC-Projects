@@ -21,9 +21,9 @@ My *Techniques for Software Application Development* projects 🎓
 
 | Nº  | Name | Description | College Year | Topics | Subject | Finished | Activity |
 | :-: | :--: | :---------: | :----------: | :----: | :-----: | :------: | :------: |
-| 1 | [HCI Practices](https://github.com/madebypixel02/HCI-Practices) | Various practices I'll work on in Human-Computer Interaction | 1 | report, HCI, interface, research | Human-Computer Interaction | :construction: | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/hci-practices/main) |
-| 2 | [Web Standards and Languages Practices](https://github.com/madebypixel02/Web-Standards-and-Languages-Practices) | Web Standards and Languages HTML, CSS and JavaScript practices | 1 | HTML, CSS, JavaScript, Web | Web Standards & Languages | :construction: | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/Web-Standards-and-Languages-Practices/main) |
-| 3 | [Operating Systems Practices](https://github.com/madebypixel02/Operating-Systems-Practices) | Set of practical activities and practices for Operating Systems concepts | 1 | UNIX, POSIX, shell, OS, C, Makefile | Operating Systems | :construction: | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/Operating-Systems-Practices/main) |
+| 1 | [HCI Practices](https://gitlab.com/madebypixel02/HCI-Practices) | Various practices I'll work on in Human-Computer Interaction | 1 | report, HCI, interface, research | Human-Computer Interaction | :construction: | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/hci-practices/main) |
+| 2 | [Web Standards and Languages Practices](https://gitlab.com/madebypixel02/Web-Standards-and-Languages-Practices) | Web Standards and Languages HTML, CSS and JavaScript practices | 1 | HTML, CSS, JavaScript, Web | Web Standards & Languages | :construction: | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/Web-Standards-and-Languages-Practices/main) |
+| 3 | [Operating Systems Practices](https://gitlab.com/madebypixel02/Operating-Systems-Practices) | Set of practical activities and practices for Operating Systems concepts | 1 | UNIX, POSIX, shell, OS, C, Makefile | Operating Systems | :construction: | ![GitHub Last Commit](https://img.shields.io/github/last-commit/madebypixel02/Operating-Systems-Practices/main) |
 
 <div align="center">
   <a href="https://uoc.edu">

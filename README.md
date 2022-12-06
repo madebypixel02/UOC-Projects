@@ -12,8 +12,8 @@ My *Techniques for Software Application Development* projects 🎓
 
 ### Finished Projects
 
-| Nº  | Name | Description | College Year | Topics | Subject | Finished | Activity |
-| :-: | :--: | :---------: | :----------: | :----: | :-----: | :------: | :------: |
+| Nº  | Name | Available at |  Description | College Year | Topics | Subject | Finished | Activity |
+| :-: | :--: | :----------: |  :---------: | :----------: | :----: | :-----: | :------: | :------: |
 |||||||||
 
 
